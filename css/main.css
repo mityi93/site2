@@ -359,6 +359,7 @@ hr {
 	font-size: 22.5px;
 	background: linear-gradient(45deg, #f34239 33%, #e824a8 66%, #4727e2);
 	background-clip: text;
+	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	font-family: "DroidSerifBold";
 }
