@@ -156,6 +156,7 @@ h1,h2,h3,h4,h5,h6 {
 .block-news img {
     width: 640px;
     height: 750px;
+    object-fit:cover;
 }
 
 .title-text-tag {
