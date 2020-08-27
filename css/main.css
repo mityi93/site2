@@ -299,6 +299,7 @@ hr {
     margin-top: 35px;
     font-size: 22.5px;
     background: linear-gradient(45deg, #78229b 33%, #238fea 66%, #25db52);
+    -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
     font-family: "DroidSerifBold";
@@ -480,6 +481,7 @@ hr {
     margin-top: 35px;
     font-size: 22.5px;
     background: linear-gradient(45deg, #21399a 33%, #501ed2 33%, #da27d7);
+    -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
